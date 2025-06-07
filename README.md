@@ -39,7 +39,7 @@ pip install reportlab
 <p>4. Run the script</p>
 
 ```
-python pass_ana.py
+python pass-ana.py
 ```
 
   
